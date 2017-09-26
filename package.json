@@ -1,0 +1,23 @@
+{
+  "name": "knex-queries",
+  "version": "1.0.0",
+  "description": "Experimenting with Knex.",
+  "main": "test_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node test_script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdhunter3141/knex-queries.git"
+  },
+  "author": "Bryan Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdhunter3141/knex-queries/issues"
+  },
+  "homepage": "https://github.com/bdhunter3141/knex-queries#readme",
+  "dependencies": {
+    "pg": "^7.3.0"
+  }
+}
